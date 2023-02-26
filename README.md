@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="awawa.css" />
+
 <p1 align="center">
   <img src="https://wallpapersmug.com/download/2560x1024/788fe8/cute-megumi-kato-anime.jpg">
   </p1>
