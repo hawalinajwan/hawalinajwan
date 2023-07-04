@@ -1,0 +1,11 @@
+@font-face{font-family:'Font Awesome 6 Brands';font-style:normal;font-weight:400;font-display:block;src:url(../fonts/fa-brands-400.woff2) format('woff2'),url(../fonts/fa-brands-400.ttf) format('truetype')}
+
+.fa-brands{font-family:'Font Awesome 6 Brands';font-weight:400}
+.youtube:before{content:'\f167'}
+.instagram:before{content:'\f16d'}
+.github:before{content:'\f09b'}
+.spotify:before{content:'\f1bc'}
+.applem:before{content:'\f3b5'}
+.twitter:before{content:'\f099'}
+.discord:before{content:'\f392'}
+.donate:before{content:'\f18c'}
